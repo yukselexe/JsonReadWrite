@@ -1,2 +1,2 @@
 # JsonReadWrite
-Json Verilerini C# Form aracılığıyla okuma yazma örneği
+Example for reading and writing Json data with C# Language
